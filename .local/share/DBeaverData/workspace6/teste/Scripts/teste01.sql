@@ -1,1 +1,1 @@
-teste
+select 'teste' FROM dummy
